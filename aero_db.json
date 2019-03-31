@@ -1,0 +1,9 @@
+[
+{"type":"header","version":"4.7.7","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"aero_db"},
+{"type":"table","name":"academy","database":"aero_db","data":
+[
+{"id":"1","username":"\u0418\u0432\u0430\u043d\u043e\u0432","mobile":"9999997878","email":"charlikeoo@yandex.ru","date":"2008-06-11","comment":"\u0421\u043f\u0430\u0441\u0441\u0438\u0431\u043e, \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442"}
+]
+}
+]
